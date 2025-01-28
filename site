@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="EduGuide GPT: Your partner in education, specializing in student-centered learning, Project-Based Learning (PBL), and International Baccalaureate (IB) approaches.">
+    <title>EduGuide GPT</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: #4caf50;
+            color: white;
+            padding: 20px 10%;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        header p {
+            margin: 5px 0 0;
+        }
+        nav {
+            text-align: center;
+            background-color: #333;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px 10%;
+            background-color: #fff;
+            margin: 20px auto;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            margin-top: 20px;
+        }
+        .cta {
+            background-color: #4caf50;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            margin: 20px 0;
+            border-radius: 5px;
+            display: inline-block;
+            font-weight: bold;
+            text-decoration: none;
+        }
+        .cta:hover {
+            background-color: #45a049;
+        }
+        .feature-list {
+            list-style: none;
+            padding: 0;
+        }
+        .feature-list li {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to EduGuide GPT</h1>
+    <p>Your Partner in Education: Supporting Student-Centered Learning</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#features">Features</a>
+    <a href="#get-started">Get Started</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About EduGuide GPT</h2>
+    <p>EduGuide GPT is a powerful tool designed for educators, specializing in Project-Based Learning (PBL) and International Baccalaureate (IB) approaches to teaching and learning. By fostering inquiry, critical thinking, and collaboration, EduGuide GPT helps educators create impactful lessons, analyze data trends, and offer actionable plans for improvement.</p>
+</section>
+
+<section id="features">
+    <h2>Key Features</h2>
+    <ul class="feature-list">
+        <li>📚 <strong>Customized Lesson Planning:</strong> Generate plans using Bloom's and SOLO taxonomy.</li>
+        <li>🛠 <strong>Actionable Feedback:</strong> Receive detailed analysis of ATL skills and student performance.</li>
+        <li>🌟 <strong>IB Alignment:</strong> Align teaching strategies with IB Learner Profile attributes and ATL skills.</li>
+        <li>🧠 <strong>Inquiry-Based Learning:</strong> Encourage student autonomy through inquiry-driven lessons.</li>
+        <li>🎯 <strong>Differentiation:</strong> Provide tailored activities for diverse learner needs.</li>
+    </ul>
+</section>
+
+<section id="get-started">
+    <h2>Get Started with EduGuide GPT</h2>
+    <p>Experience the power of EduGuide GPT by clicking below to start your journey toward student-centered excellence in education.</p>
+    <a href="/start" class="cta">Start Using EduGuide GPT</a>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>Have questions? Need support? Get in touch!</p>
+    <p>Email: <a href="mailto:support@eduguidegpt.com">support@eduguidegpt.com</a></p>
+</section>
+
+<footer>
+    <p>&copy; 2025 EduGuide GPT. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
